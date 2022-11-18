@@ -1,1 +1,2 @@
-# CristianDaniFinalAssessment
+# Daniel Mendes
+# Cristian Mihai Sandu
